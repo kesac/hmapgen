@@ -18,10 +18,16 @@ Rendering heightmap data:
 
 ## Screenshots
 
-Example raw output from hmapgen. (TODO)
+Example raw output from hmapgen.
 
-A world map created using hmapgen (this functionality is not part of the core library, but the example class that created this map is included in the repository). (TODO)
+![alt text](http://turtlesort.com/imgs/hmapgen_demo1.png "Example 1") 
 
+![alt text](http://turtlesort.com/imgs/hmapgen_demo2.png "Example 2")
+
+
+A world map created using hmapgen (this functionality is not part of the core library, but the example class that created this map is included in the repository).
+
+![alt text](http://turtlesort.com/imgs/thumb_hmapgen.png "Example 3")
 
 # License
 
